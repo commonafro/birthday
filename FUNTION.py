@@ -6,4 +6,5 @@ y = input("What year were you born: ")
 d = input("What day were you born: ")
 ss = input("What's your social security number: ")
 
-print("You were born on: ", m, d, y, "Your social security number is ", ss) 
+# print("You were born on: ", m, d, y, "Your social security number is ", ss) 
+print("YOU DONT EXIST YOU DONT EXIST YOU DONT EXIST YOU DONT EXIST YOU DONT EXIST YOU DONT EXIST YOU DONT EXIST YOU DONT EXIST YOU DONT EXIST YOU DONT EXIST")
